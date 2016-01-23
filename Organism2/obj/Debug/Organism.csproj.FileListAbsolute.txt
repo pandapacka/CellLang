@@ -1,0 +1,5 @@
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Organism2\bin\Debug\Organism.dll
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Organism2\bin\Debug\Organism.pdb
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Organism2\obj\Debug\Organism.csprojResolveAssemblyReference.cache
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Organism2\obj\Debug\Organism.dll
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Organism2\obj\Debug\Organism.pdb

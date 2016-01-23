@@ -1,0 +1,7 @@
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Control\bin\Release\Control.dll
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Control\bin\Release\Control.pdb
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Control\bin\Release\Organism.dll
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Control\bin\Release\Organism.pdb
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Control\obj\Release\Control.dll
+C:\Users\gazik\Documents\Visual Studio 2015\Projects\YapGame-master\Control\obj\Release\Control.pdb
