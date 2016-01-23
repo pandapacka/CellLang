@@ -10,6 +10,7 @@ namespace Control
 {
     public class Captain
     {
+        const char stop_symbol = '.';
         Organism.Organism organism;
         string code;
         public Captain(string new_code, Organism.Organism new_organism)
@@ -17,7 +18,6 @@ namespace Control
             code = new_code;
             organism = new_organism;
             Parser parser = new Parser();
-            char stop_symbol = '.';
             List<string> lines = code.Split(stop_symbol).ToList();
 
             for (var i=0; i<lines.Count; i++)
